@@ -1,0 +1,27 @@
+{
+    "src": "C:/Users/ROOT/OneDrive/\u1ea2nh/Screenshots",
+    "dst": "D:/DemoAnh/Screenshots",
+    "mode": "add",
+    "interval": 5,
+    "filters": {
+        "all": [],
+        "images": [
+            ".jpg",
+            ".jpeg",
+            ".png",
+            ".gif",
+            ".bmp"
+        ],
+        "documents": [
+            ".doc",
+            ".docx",
+            ".pdf",
+            ".txt",
+            ".xlsx"
+        ],
+        "custom": []
+    },
+    "realtime": false,
+    "bidirectional": false,
+    "encryption": false
+}
