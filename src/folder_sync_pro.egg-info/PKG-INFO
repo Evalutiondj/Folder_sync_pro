@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: folder_sync_pro
+Version: 0.1
+Requires-Dist: pillow>=11.1.0
+Requires-Dist: watchdog>=6.0.0
+Requires-Dist: pywin32>=310; sys_platform == "win32"
+Dynamic: requires-dist
