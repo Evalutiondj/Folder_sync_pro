@@ -36,3 +36,4 @@ class MainWindow(tk.Tk):
         pass
         
     # ... Các phương thức UI khác
+    

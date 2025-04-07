@@ -1,7 +1,7 @@
 import sys
 from pathlib import Path
 
-# Thêm thư mục gốc vào PYTHONPATH
+# Thêm src vào PYTHONPATH
 sys.path.append(str(Path(__file__).parent))
 
 from src.gui.main_window import MainWindow
